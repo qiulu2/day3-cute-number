@@ -1,2 +1,2 @@
-﻿# day3-cute-number By A
+﻿# day3-cute-number By C
 
